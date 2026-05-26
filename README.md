@@ -1,20 +1,78 @@
+# Hola, soy Sebastian Solano 👋
 
-# Hola, Yo soy Sebastian! 👋
+Desarrollador Java Full Stack Junior enfocado en la construcción de aplicaciones web modernas utilizando Spring Boot, React, PostgreSQL y Docker.
 
+Actualmente estoy desarrollando proyectos personales para consolidar mis conocimientos en desarrollo backend, frontend e integración Full Stack.
 
-## 🚀 Sobre mí
-Mi viaje en la programación comenzó de manera autodidacta, donde descubrí mi pasión por el desarrollo de software. Lo que en un principio era un hobby se convirtió en mi vocación, llevándome a buscar una titulación formal para complementar mi aprendizaje autodidacta.
+---
 
-Mi enfoque inicial estuvo en el desarrollo multiplataforma, pero mi curiosidad y deseo de adquirir habilidades más amplias me llevaron a sumergirme en el mundo del desarrollo Full Stack. Esta transición me permitió explorar el lado del fornted, ampliando significativamente mis habilidades técnicas y mi comprensión integral del desarrollo de aplicaciones.
+## 🚀 Tecnologías Principales
 
-Además de mi enfoque técnico, me considero una persona comunicativa, dedicada y entusiasta del trabajo en equipo. Mi objetivo es aplicar esta combinación de habilidades tanto en proyectos desafiantes como en entornos colaborativos donde pueda contribuir y aprender de otros profesionales apasionados por la programación.
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- JWT
+- JPA / Hibernate
 
+### Frontend
+- React
+- JavaScript
 
-## 🛠 Skills
-Javascript, Java, Python, C++, React, Angular, SQL, HTML, CSS...
+### Base de Datos
+- PostgreSQL
 
+### DevOps
+- Docker
+- Docker Compose
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsbsolano/)
+### Herramientas
+- Git
+- GitHub
+- OpenAPI / Swagger
 
+---
 
+## 📌 Proyecto Destacado
+
+### Finanzas API
+
+API REST para la gestión de finanzas personales desarrollada con:
+
+- Java 21
+- Spring Boot 3
+- Spring Security + JWT
+- PostgreSQL
+- Docker
+- OpenAPI / Swagger
+- Testing con JUnit y MockMvc
+
+### Funcionalidades
+
+- Registro y autenticación de usuarios
+- Gestión de categorías
+- Gestión de transacciones
+- Resúmenes financieros
+- Seguridad mediante JWT
+- Documentación OpenAPI
+
+### Repositorio
+
+👉 https://github.com/sbs29/Gestor-de-finanzas
+
+---
+
+## 🛣️ Roadmap Actual
+
+- ✅ Finanzas API Backend v1
+- 🚀 Frontend React
+- 🔜 Integración Full Stack
+- 🔜 Despliegue
+
+---
+
+## 📫 Contacto
+
+### LinkedIn
+
+👉 https://www.linkedin.com/in/jsbsolano/
