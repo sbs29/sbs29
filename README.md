@@ -6,31 +6,22 @@ Actualmente estoy desarrollando proyectos personales para consolidar mis conocim
 
 ---
 
-## 🚀 Tecnologías Principales
+## 🚀 Tecnologías
 
-### Backend
-- Java
-- Spring Boot
-- Spring Security
-- JWT
-- JPA / Hibernate
+Backend:
+Java · Spring Boot · Spring Security · JWT · JPA/Hibernate
 
-### Frontend
-- React
-- JavaScript
+Frontend:
+React · JavaScript
 
-### Base de Datos
-- PostgreSQL
+Base de Datos:
+PostgreSQL
 
-### DevOps
-- Docker
-- Docker Compose
+DevOps:
+Docker · Docker Compose
 
-### Herramientas
-- Git
-- GitHub
-- OpenAPI / Swagger
-
+Herramientas:
+Git · GitHub · OpenAPI · Swagger
 ---
 
 ## 📌 Proyecto Destacado
