@@ -1,64 +1,105 @@
-# Hola, soy Sebastian Solano 👋
+# Hola, soy Sebastián Solano 👋
 
-Desarrollador Java Full Stack Junior enfocado en la construcción de aplicaciones web modernas utilizando Spring Boot, React, PostgreSQL y Docker.
+Desarrollador Java Full Stack Junior especializado en la construcción de aplicaciones web utilizando Java, Spring Boot, React, PostgreSQL y Docker.
 
-Actualmente estoy desarrollando proyectos personales para consolidar mis conocimientos en desarrollo backend, frontend e integración Full Stack.
+Actualmente estoy consolidando mis conocimientos mediante el desarrollo de proyectos Full Stack, aplicando buenas prácticas de arquitectura, seguridad, testing, despliegue y desarrollo frontend.
 
 ---
 
 ## 🚀 Tecnologías
 
-Backend:
-Java · Spring Boot · Spring Security · JWT · JPA/Hibernate
+### Backend
 
-Frontend:
-React · JavaScript
+* Java
+* Spring Boot
+* Spring Security
+* JWT Authentication
+* Spring Data JPA
+* Hibernate
+* REST APIs
 
-Base de Datos:
-PostgreSQL
+### Frontend
 
-DevOps:
-Docker · Docker Compose
+* React
+* TypeScript
+* React Router
+* Axios
+* Vite
 
-Herramientas:
-Git · GitHub · OpenAPI · Swagger
+### Bases de Datos
+
+* PostgreSQL
+
+### DevOps
+
+* Docker
+* Docker Compose
+* Render
+* Vercel
+* Neon
+
+### Herramientas
+
+* Git
+* GitHub
+* OpenAPI
+* Swagger
+* IntelliJ IDEA
+* VS Code
+
 ---
 
 ## 📌 Proyecto Destacado
 
-### Finanzas API
+### Gestor de Finanzas
 
-API REST para la gestión de finanzas personales desarrollada con:
+Aplicación Full Stack para la gestión de finanzas personales.
 
-- Java 21
-- Spring Boot 3
-- Spring Security + JWT
-- PostgreSQL
-- Docker
-- OpenAPI / Swagger
-- Testing con JUnit y MockMvc
+### Tecnologías utilizadas
+
+* Java 21
+* Spring Boot 3
+* Spring Security + JWT
+* PostgreSQL
+* React
+* TypeScript
+* Docker
+* OpenAPI / Swagger
+* Render
+* Vercel
+* Neon
 
 ### Funcionalidades
 
-- Registro y autenticación de usuarios
-- Gestión de categorías
-- Gestión de transacciones
-- Resúmenes financieros
-- Seguridad mediante JWT
-- Documentación OpenAPI
+* Registro e inicio de sesión
+* Autenticación JWT
+* Gestión de categorías
+* Gestión de transacciones
+* Dashboard financiero
+* Filtros avanzados
+* Paginación
+* Seguridad por usuario
+* Documentación Swagger
+* Despliegue completo en la nube
 
-### Repositorio
+### Demo
 
-👉 https://github.com/sbs29/Gestor-de-finanzas
+Frontend:
+https://gestor-de-finanzas-snowy.vercel.app
+
+Repositorio:
+https://github.com/sbs29/Gestor-de-finanzas
 
 ---
 
-## 🛣️ Roadmap Actual
+## 🎯 Actualmente Aprendiendo
 
-- ✅ Finanzas API Backend v1
-- 🚀 Frontend React
-- 🔜 Integración Full Stack
-- 🔜 Despliegue
+* React avanzado
+* Context API
+* Custom Hooks
+* Testing Frontend
+* Arquitectura Full Stack
+* Despliegue y CI/CD
 
 ---
 
@@ -66,4 +107,8 @@ API REST para la gestión de finanzas personales desarrollada con:
 
 ### LinkedIn
 
-👉 https://www.linkedin.com/in/jsbsolano/
+https://www.linkedin.com/in/jsbsolano/
+
+### GitHub
+
+https://github.com/sbs29
